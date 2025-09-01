@@ -1,5 +1,5 @@
 make:
-	g++ main.cpp sigmoid.cpp -o main
+	g++ main.cpp mathslib.cpp -o main
 	./main
 
 commit:
